@@ -125,7 +125,7 @@ struct Tower
 	Timer timer;
 };
 
-// 4 byte aligned, 16 byte size.
+// 4 byte aligned, 24 byte size.
 struct Bullet
 {
 	Position position;
